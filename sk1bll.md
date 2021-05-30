@@ -881,7 +881,7 @@ df_raw.to_feather('tmp/iowa-raw')
 
 
 ```python
-df_raw = pd.read_feather('tmp/iowa-raw')
+df_raw = pd.read_feather('tmp/raw')
 ```
 
 
